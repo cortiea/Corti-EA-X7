@@ -41,6 +41,3 @@ The author is not responsible for any financial losses incurred when using this 
 ## Contributing
 Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
 
-## Contact
-For questions or support, please reach out at [your-email@example.com].
-
